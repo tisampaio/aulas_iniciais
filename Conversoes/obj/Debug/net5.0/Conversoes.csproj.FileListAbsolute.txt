@@ -1,0 +1,16 @@
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\Conversoes.exe
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\Conversoes.deps.json
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\Conversoes.runtimeconfig.json
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\Conversoes.runtimeconfig.dev.json
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\Conversoes.dll
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\ref\Conversoes.dll
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\bin\Debug\net5.0\Conversoes.pdb
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.csproj.AssemblyReference.cache
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.AssemblyInfoInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.AssemblyInfo.cs
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.csproj.CoreCompileInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.dll
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\ref\Conversoes.dll
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.pdb
+C:\Aulas\fhelipe\Aulasiniciais\Conversoes\obj\Debug\net5.0\Conversoes.genruntimeconfig.cache

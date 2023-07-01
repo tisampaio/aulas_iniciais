@@ -1,0 +1,16 @@
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\exercicioWhile.exe
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\exercicioWhile.deps.json
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\exercicioWhile.runtimeconfig.json
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\exercicioWhile.runtimeconfig.dev.json
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\exercicioWhile.dll
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\ref\exercicioWhile.dll
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\bin\Debug\net5.0\exercicioWhile.pdb
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.csproj.AssemblyReference.cache
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.AssemblyInfoInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.AssemblyInfo.cs
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.csproj.CoreCompileInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.dll
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\ref\exercicioWhile.dll
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.pdb
+C:\Aulas\fhelipe\Aulasiniciais\exercicioWhile\obj\Debug\net5.0\exercicioWhile.genruntimeconfig.cache

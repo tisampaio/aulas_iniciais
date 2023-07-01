@@ -1,0 +1,16 @@
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\Aulasiniciais.exe
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\Aulasiniciais.deps.json
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\Aulasiniciais.runtimeconfig.json
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\Aulasiniciais.runtimeconfig.dev.json
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\Aulasiniciais.dll
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\ref\Aulasiniciais.dll
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\bin\Debug\net5.0\Aulasiniciais.pdb
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.csproj.AssemblyReference.cache
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.AssemblyInfoInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.AssemblyInfo.cs
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.csproj.CoreCompileInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.dll
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\ref\Aulasiniciais.dll
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.pdb
+C:\Aulas\fhelipe\Aulasiniciais\Aulasiniciais\obj\Debug\net5.0\Aulasiniciais.genruntimeconfig.cache

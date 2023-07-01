@@ -1,0 +1,15 @@
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.AssemblyInfoInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.AssemblyInfo.cs
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.csproj.CoreCompileInputs.cache
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\Mercado.exe
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\Mercado.deps.json
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\Mercado.runtimeconfig.json
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\Mercado.runtimeconfig.dev.json
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\Mercado.dll
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\ref\Mercado.dll
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\bin\Debug\net5.0\Mercado.pdb
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.dll
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\ref\Mercado.dll
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.pdb
+C:\Aulas\fhelipe\Aulasiniciais\Mercado\obj\Debug\net5.0\Mercado.genruntimeconfig.cache
